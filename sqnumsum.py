@@ -6,3 +6,8 @@ def sqnumsum(n):
 	
 n=6
 print(sqnumsum(n))
+
+
+
+
+# this is a comment for git tutorial
